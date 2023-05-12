@@ -6,14 +6,14 @@ This project is a Spring Web Application focused on simply information about cit
 
 ## Technologies Used
 
--Spring Framework
--Bootstrap
--Spring Batch
--CSS
--MySQL
--HTML
--Thymeleaf
--Hibernate 
+* Spring Framework
+* Bootstrap
+* Spring Batch
+* CSS
+* MySQL
+* HTML
+* Thymeleaf
+* Hibernate 
 
 ## Key Features
 
